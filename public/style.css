@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu');
+
+/* h1, h2, h3, h4 {
+  font-family: Alegreya, Georgia, Times, serif;
+  margin: 50px;
+} */
+
+* {
+    font-family: Ubuntu, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Ubuntu, Tahoma, Verdana, sans-serif;
+}
